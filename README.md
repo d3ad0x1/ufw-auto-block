@@ -54,11 +54,13 @@ This will:
 
 ## ⚡ Example Output
 
+```bash
 [Blocked IPv4] 203.0.113.45  
 [Blocked IPv4 Subnet] 203.0.113.0/24  
 [Blocked IPv6] 2001:db8::1234  
 [Blocked IPv6 Subnet] 2001:db8:0:1::/64  
 Auto-block completed. All new blocks have been added to /var/log/ufw-blocked.log
+```
 
 ## 📝 License
 
