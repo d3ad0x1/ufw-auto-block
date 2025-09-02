@@ -64,4 +64,4 @@ Auto-block completed. All new blocks have been added to /var/log/ufw-blocked.log
 
 ## 📝 License
 
-This project is licensed under the MIT License
+This project is licensed under the [MIT License](LICENSE).
