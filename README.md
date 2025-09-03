@@ -25,7 +25,7 @@ It also provides an option to **unblock** all previously blocked addresses.
 Clone the repository and make the script executable:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ufw-auto-block.git
+git clone https://github.com/d3ad0x1/ufw-auto-block.git
 cd ufw-auto-block
 chmod +x ufw-auto-block.sh
 ```
