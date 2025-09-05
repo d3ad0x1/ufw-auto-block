@@ -62,6 +62,16 @@ This will:
 Auto-block completed. All new blocks have been added to /var/log/ufw-blocked.log
 ```
 
+## 🔖 GitHub Topics
+![bash](https://img.shields.io/badge/language-bash-green?logo=gnu-bash)
+![linux](https://img.shields.io/badge/os-linux-black?logo=linux)
+![ufw](https://img.shields.io/badge/firewall-ufw-blue)
+![security](https://img.shields.io/badge/topic-security-red?logo=security)
+![automation](https://img.shields.io/badge/topic-automation-yellow)
+![network](https://img.shields.io/badge/topic-network-lightgrey?logo=ethernet)
+![ddos-protection](https://img.shields.io/badge/topic-ddos--protection-orange)
+![cli](https://img.shields.io/badge/interface-cli-lightblue)
+
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
